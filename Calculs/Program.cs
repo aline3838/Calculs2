@@ -33,7 +33,6 @@ namespace Calculs
                 switch (choix)
                 {
                     case "1": // addition
-
                         // saisie de la réponse
                         correct = false;
                         while (!correct)
@@ -61,7 +60,6 @@ namespace Calculs
                         }
                         break;
                     case "2": // multiplication
-
                         // saisie de la réponse
                         correct = false;
                         while (!correct)
